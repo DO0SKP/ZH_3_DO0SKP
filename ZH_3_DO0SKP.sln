@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32802.462
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZH_3_DO0SKP", "ZH_3_DO0SKP\ZH_3_DO0SKP.csproj", "{F640FF4B-5857-44DE-9C43-264C4A499376}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZH_3_DO0SKP_API", "ZH_3_DO0SKP_API\ZH_3_DO0SKP_API.csproj", "{2BB6573E-01B0-445B-99D1-C04A713E0BBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F640FF4B-5857-44DE-9C43-264C4A499376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F640FF4B-5857-44DE-9C43-264C4A499376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F640FF4B-5857-44DE-9C43-264C4A499376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F640FF4B-5857-44DE-9C43-264C4A499376}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BB6573E-01B0-445B-99D1-C04A713E0BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BB6573E-01B0-445B-99D1-C04A713E0BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BB6573E-01B0-445B-99D1-C04A713E0BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BB6573E-01B0-445B-99D1-C04A713E0BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D036FC76-5179-4F9A-81AA-425B17767B87}
+	EndGlobalSection
+EndGlobal
